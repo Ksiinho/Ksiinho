@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Kira
+### 👋 Hi there, I'm Kr
 <div>
   <a href="https://github.com/Ksiinho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ksiinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,7 +30,7 @@
   ![Snake animation](https://github.com/Ksiinho/Ksiinho/blob/output/github-contribution-grid-snake.svg)
 
 
-[instagram]: https://instagram.com/ksiinho
+[instagram]: https://instagram.com
 [discord]: https://discord.gg/y2nc9z5TVs
 
 
